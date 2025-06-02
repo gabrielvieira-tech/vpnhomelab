@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This toturial uses an Azure VM, Proton VPN, and WhatIsMyIPAddress.com to compare IP and geolocation across a personal machine, a remote VM, and a VPN inside the VM.<br />
 
 
 <h2>Video Demonstration</h2>
