@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://imgur.com/gallery/vpn-project-PQH0Qqw"/>
+<img src="![capa project](https://github.com/user-attachments/assets/6fd8eec6-5dbc-44c6-8537-499ec1235be6)
+"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
