@@ -1,7 +1,7 @@
 <p align="center">
-<img src="![capa project](https://github.com/user-attachments/assets/6fd8eec6-5dbc-44c6-8537-499ec1235be6)
-"/>
+<img src=""/>
 </p>
+![image](https://github.com/user-attachments/assets/f0237896-2766-45e1-bf44-f71eab6c1cf1)
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This toturial uses an Azure VM, Proton VPN, and WhatIsMyIPAddress.com to compare IP and geolocation across a personal machine, a remote VM, and a VPN inside the VM.<br />
