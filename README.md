@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+  
+![Image](https://github.com/user-attachments/assets/676e6021-54a3-4c02-9ac2-e338466ee5ba)
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>VPN - Homelab Tutorial</h1>
 This toturial uses an Azure VM, Proton VPN, and WhatIsMyIPAddress.com to compare IP and geolocation across a personal machine, a remote VM, and a VPN inside the VM.<br />
 
 
